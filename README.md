@@ -69,8 +69,8 @@ A RESTful API backend for a Basic Activity Booking App
 2. Create a `.env` file in the root directory with the following variables:
    ```
    PORT=5000
-   MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=shhh
+   MONGO_URI=Your_mongodb_connection_string
+   JWT_SECRET=Your_secret_key
    JWT_EXPIRE=30d
    ```
 
