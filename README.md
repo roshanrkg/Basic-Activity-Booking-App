@@ -3,10 +3,14 @@
 A RESTful API backend for a Basic Activity Booking App 
 ## Activity search in db is done with the help of object ids here's the list of all the activities with ids 
 
-##Cricket - OID = 681bb4f327f87bf9b1c9cb71
+##Cricket - OID = 681bb4f327f87bf9b1c9cb71 
+
 ##Football- OID = 681bb4f327f87bf9b1c9cb72
+
 ##Movie -   OID = 681bb4f327f87bf9b1c9cb73
+
 ##Yoga-     OID = 681bb4f327f87bf9b1c9cb74
+
 ##Zumba     OID = 681bb4f327f87bf9b1c9cb75
 
 ## API Endpoints
